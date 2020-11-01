@@ -37,3 +37,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 ![Image](NikeLogo.PNG)
+
+![techbytes-Logotype-with-slogan-2](https://user-images.githubusercontent.com/70189334/97815203-4e79f700-1c41-11eb-9310-211b23bd2733.jpg)
